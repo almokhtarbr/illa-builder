@@ -23,6 +23,7 @@ English | <a href="https://github.com/illacloud/illa-builder/blob/beta/README-CN
 [![PR:s Welcome](https://img.shields.io/badge/PR:s-welcome-brightgreen.svg)](https://github.com/illacloud/illa-builder/pulls)
 [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg?style=socialflat-square&)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
+[![Deploy to Railyard](https://app.railyard.run/deploy/badge)](https://app.railyard.run/deploy?repo=https://github.com/illacloud/illa-builder)
 
 ## 🚀Get Started
 To try ILLA, the most convenient way is to sign up and log in to [ILLA Cloud](https://cloud.illacloud.com?utm_source=github&utm_medium=readme&utm_campaign=github-readme). 
